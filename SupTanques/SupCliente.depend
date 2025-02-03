@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1737632756 source:e:\jv\facul\prog_avançada\mysocket\mysocket.cpp
+	"mysocket.h"
+	<sys/types.h>
+	<netdb.h>
+	<unistd.h>
+
+1737633637 e:\jv\facul\prog_avançada\mysocket\mysocket.h
+	<string>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/socket.h>
+
+1730923843 source:e:\jv\facul\prog_avançada\suptanques\supdados.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"tanques-param.h"
+	"supdados.h"
+
+1720734942 e:\jv\facul\prog_avançada\suptanques\tanques-param.h
+
+1730666230 e:\jv\facul\prog_avançada\suptanques\supdados.h
+
+1737839056 source:e:\jv\facul\prog_avançada\suptanques\supcliente.cpp
+	<iostream>
+	"supcliente.h"
+	"supdados.h"
+
+1737831147 e:\jv\facul\prog_avançada\suptanques\supcliente.h
+	<string>
+	<ctime>
+	<thread>
+	<mutex>
+	"supdados.h"
+	"../MySocket/mysocket.h"
+
+1727807326 source:e:\jv\facul\prog_avançada\suptanques\supcliente_main_term.cpp
+	"supcliente_term.h"
+
+1731508251 e:\jv\facul\prog_avançada\suptanques\supcliente_term.h
+	"supcliente.h"
+
+1731362906 source:e:\jv\facul\prog_avançada\suptanques\supcliente_term.cpp
+	<iostream>
+	<cmath>
+	"supcliente_term.h"
+

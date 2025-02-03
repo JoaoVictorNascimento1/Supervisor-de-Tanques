@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1730923843 source:e:\jv\facul\prog_avançada\suptanques\supdados.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"tanques-param.h"
+	"supdados.h"
+
+1720734942 e:\jv\facul\prog_avançada\suptanques\tanques-param.h
+
+1730666230 e:\jv\facul\prog_avançada\suptanques\supdados.h
+
+1729017736 source:e:\jv\facul\prog_avançada\suptanques\supservidor_main.cpp
+	<iostream>
+	<cmath>
+	"supservidor.h"
+
+1737823106 e:\jv\facul\prog_avançada\suptanques\supservidor.h
+	"../MySocket/mysocket.h"
+	<string>
+	<list>
+	"tanques.h"
+	"supdados.h"
+
+1737633637 e:\jv\facul\prog_avançada\mysocket\mysocket.h
+	<string>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/socket.h>
+
+1723153196 e:\jv\facul\prog_avançada\suptanques\tanques.h
+	<ctime>
+	<thread>
+	<mutex>
+	"tanques-param.h"
+
+1728053348 source:e:\jv\facul\prog_avançada\suptanques\tanques.cpp
+	<iostream>
+	<cmath>
+	<chrono>
+	"tanques.h"
+	"supdados.h"
+
+1737844837 source:e:\jv\facul\prog_avançada\suptanques\supservidor.cpp
+	<iostream>
+	<algorithm>
+	"supservidor.h"
+
+1737632756 source:e:\jv\facul\prog_avançada\mysocket\mysocket.cpp
+	"mysocket.h"
+	<sys/types.h>
+	<netdb.h>
+	<unistd.h>
+
